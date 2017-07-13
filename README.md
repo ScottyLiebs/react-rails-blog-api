@@ -1,24 +1,8 @@
-# README
+# React & Rails Blog API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Rails 5 API that goes with the React front end app at [React & Rails Blog API](https://github.com/ScottyLiebs/react-rails-blog.git)
 
-Things you may want to cover:
+* Rails 5
+* Ruby 2.4
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See [React & Rails Blog API](https://github.com/ScottyLiebs/react-rails-blog.git) for further details and deployment instructions
